@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on mini project 
-- 📫 How to reach me on Instagram @reynaldo_marchellba
+- 📫 How to reach me: Instagram @reynaldo_marchellba
 
 <!---
 reynaldomarchell/reynaldomarchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
